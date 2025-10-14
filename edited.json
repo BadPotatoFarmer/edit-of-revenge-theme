@@ -45,7 +45,7 @@
             "#2A2A2A"
         ],
 		"BACKGROUND_PRIMARY": [
-            "https://wallpapercave.com/wp/wp3931031.png"
+            "#000000"
         ],
 		"BACKGROUND_SECONDARY": [
             "#000000"
@@ -168,7 +168,7 @@
             "#FFFFFF"
         ],
 		"CHAT_BACKGROUND": [
-            "https://wallpapercave.com/wp/wp3931031.png"
+            "#000000"
         ],
 		"CARD_PRIMARY_BG": [
             "#000000"
@@ -240,5 +240,9 @@
     "NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1",
     "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
 },
+	"background": {
+        "url": "https://wallpapercave.com/wp/wp3931031.png",
+	"alpha": 1
+    },
 	"spec": 2
 }
